@@ -1,0 +1,1 @@
+Predict the correct color for given RGB value.
